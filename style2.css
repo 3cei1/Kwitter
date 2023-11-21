@@ -1,0 +1,74 @@
+
+body{
+  margin: 0;
+  padding: 0;
+}
+  #header1{
+  background-color: #c39c6f;
+   display: flex;
+   justify-content: space-between;
+
+  
+    
+}
+  
+  .p1{
+    margin-left: 900px;
+  }
+.derecha{
+  background: #D8BB7F;
+  height: 100vh; 
+  width: 50%;
+  text-align: center;
+  
+}
+  
+  .izquierda{
+   background: url(https://picsum.photos/id/112/367/267);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100vh;
+   
+  }
+
+  #pantalla-dividida{
+    display: flex;
+  }
+  
+  h1{
+    font-size: 70px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+    margin-top: 50px;
+   
+
+  
+ 
+ 
+  } 
+  
+  .p{
+    font-size: 40px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+    
+  }
+  
+  a{
+    border: 1px solid #000000;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 30px;
+    text-align: center;
+    
+  }
+  
+  .link{
+    text-align: center;
+  }
+
